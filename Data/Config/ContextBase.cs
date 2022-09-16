@@ -34,7 +34,7 @@ namespace Data.Config
 
         private string GetStringConectionConfig()
         {
-            string strCon = "Data Source=DESKTOP-BHP8771\\SQLEXPRESS;Initial Catalog=PROJETOAPIJWT;Integrated Security=True";
+            string strCon = "Data Source=DESKTOP-BFJTFD7\\SQLEXPRESS;Initial Catalog=PROJETOAPIJWT;Integrated Security=True";
 
             return strCon;
         }
